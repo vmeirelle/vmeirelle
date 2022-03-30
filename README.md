@@ -7,7 +7,7 @@
 👋 Hi, I’m @vmeirelle. </p> 
 🎓 Computer Engineering student at UFRB, Brazil.</p>
 🌱 I’m currently learning data science.</p>
-📫 vmeirelles.eng@gmail.com </p>
+📫 meirelles@duck.com</p>
 🐦 @vmeirelle</p>
 
 
