@@ -1,6 +1,5 @@
 
-### 👋 Hi, I’m @vmeirelle. </p> 
-
+### Hi, I’m @vmeirelle. </p> 
 #### A Full-Stack Student
 Computer Engineering student at [UFRB](https://ufrb.edu.br), Brazil;<br>
 
