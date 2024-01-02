@@ -3,7 +3,7 @@
 #### A Full-Stack Student
 Computer Engineering student at [UFRB](https://ufrb.edu.br), Brazil;<br>
 
-- ⚙️ Pretty in home with `.py` and `.c`
+- ⚙️ `.py` and `.c`
 - **Into any kind of FPGA or ESP project**
 - ⚙️ Also an advanced spreadsheet user with expertise in complex formulas, pivot tables, and data analysis.
 - 🌱 **Always Open Source**
