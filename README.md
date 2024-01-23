@@ -3,7 +3,7 @@
 #### A Full-Stack Student
 Computer Engineering student at [UFRB](https://ufrb.edu.br), Brazil;<br>
 
-- ⚙️ `.py` and `.c`
+- ⚙️  `.c`
 - **Into any kind of FPGA or ESP project**
 - 🌱 **Always Open Source**
 - 💬 Ping me about any hardware project
