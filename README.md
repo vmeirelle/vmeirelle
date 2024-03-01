@@ -4,4 +4,4 @@
 Computer Engineering student at [UFRB](https://ufrb.edu.br), Brazil;<br>
 
 - 📫 Reach me: [meirelles@duck.com](meirelles@duck.com)
-- 🧙‍♂️ Huge D&D fan.
+- 🧙‍♂️ Huge TTRPG fan.
