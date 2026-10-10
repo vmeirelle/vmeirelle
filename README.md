@@ -4,7 +4,7 @@
 
 #### A Full-Stack Student
 
-Computer Engineering student at [UFRB](https://ufrb.edu.br), Brazil;<br>
+Computer Engineer.
 
 - 📫 Reach me: [meirelles@duck.com](meirelles@duck.com)
 
